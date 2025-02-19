@@ -1,2 +1,26 @@
-# Wikipedia---FoodLink-Web-Application
-Spring MVC web app for FoodLink with Email OTP authentication, HTTP session management, JSP, Bootstrap, MySQL, and Apache Tomcat 9.
+Here's a professional description for your GitHub repository:
+
+---
+
+# Wikipedia - FoodLink Web Application
+
+This is a **Spring MVC** web-based project for **FoodLink**, designed to provide seamless user authentication and interaction. The application includes **Email OTP functionality** for secure login and session management using **HTTP Sessions**. 
+
+### 🔹 Features:
+- **Spring MVC framework** (without Servlets)
+- **Email OTP verification** for authentication
+- **JSP-based UI** with **Bootstrap 5**
+- **MySQL database** integration
+- **Apache Tomcat 9** as the application server
+
+### 🔹 Technologies Used:
+- **Backend**: Spring MVC, Java  
+- **Frontend**: JSP, Bootstrap, HTML, CSS  
+- **Database**: MySQL  
+- **Server**: Apache Tomcat 9  
+
+This project is solely developed and maintained by me.
+
+---
+
+This description is clear, professional, and highlights the key technologies and features. Let me know if you want any modifications! 🚀
